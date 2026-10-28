@@ -1,0 +1,13 @@
+a="satara"
+print(a.upper())
+print(a.lower())
+print(a.islower())
+print(a.isupper())
+print(a.count("a"))
+print(a[-1])
+print(a[:3])
+print("tara"in a)
+print(a.endswith("t"))
+print(a.index("t"))
+print("yspm"+" "+a)
+print(len(a))
